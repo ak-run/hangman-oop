@@ -1,7 +1,8 @@
 import random
 import csv
 
-class WordToGuess():
+
+class WordToGuess:
     def __init__(self):
         """
         Initialize the WordToGuess class with an empty word_list attribute.
