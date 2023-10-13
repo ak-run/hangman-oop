@@ -1,2 +1,3 @@
 .idea/
-**/[Tt]est*
+.pytest_cache
+__pycache__/test_word_to_guess.cpython-311-pytest-7.4.2.pyc

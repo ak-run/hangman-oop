@@ -19,8 +19,7 @@ class WordToGuess:
             # Use list comprehension to extract words from rows
             self.word_list = [row[0] for row in reader]
         # Select a random word from the list
-        random_word = random.choice(self.word_list)
-        return random_word
+        return random.choice(self.word_list)
 
     def words(self):
         """
