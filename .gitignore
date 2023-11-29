@@ -2,5 +2,3 @@
 .pytest_cache
 __pychache__/
 venv
-test_hangman.py
-test_word_to_guess.py
